@@ -1,0 +1,9 @@
+{
+  "public_f1": 0.5641476274165202,
+  "threshold": 0.44050884460237216,
+  "accuracy": 0.6693333333333333,
+  "precision": 0.4618705035971223,
+  "recall": 0.7246049661399548,
+  "positive_predictions": 1390,
+  "model": "blend_logreg_0.755_tabicl_0.245_tabpfn_0.000"
+}

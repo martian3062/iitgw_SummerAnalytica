@@ -1,0 +1,9 @@
+{
+  "model": "fine_blend_logreg_0.785_tabicl_0.215",
+  "public_f1": 0.5633434915106661,
+  "threshold": 0.4410240137892192,
+  "accuracy": 0.6656666666666666,
+  "precision": 0.4585400425230333,
+  "recall": 0.7302483069977427,
+  "positive_predictions": 1411
+}
