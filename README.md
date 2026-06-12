@@ -4,8 +4,8 @@ Script-first solution for the Summer Analytics Week 2 e-commerce conversion pred
 
 Current best measured public validation result:
 
-- Model: blend of tuned Logistic Regression and TabICL
-- Public F1: 0.564283
+- Model: blend of tuned Logistic Regression and multiple TabICL seeds
+- Public F1: 0.564530
 - Submission: `seb-cheneb/submission.csv`
 
 Notable challengers checked:
@@ -13,6 +13,7 @@ Notable challengers checked:
 - Tuned Logistic Regression: 0.560847 public F1
 - Coarse Logistic Regression + TabICL blend: 0.562281 public F1
 - Fine Logistic Regression + TabICL blend: 0.564283 public F1
+- Logistic Regression + TabICL seed blend: 0.564530 public F1
 - TabICL: 0.557732 public F1
 - AutoGluon: 0.554609 public F1
 - TabPFN full train, 2 estimators CPU: 0.554327 public F1
