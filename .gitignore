@@ -1,0 +1,7 @@
+.kilocode/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
+seb-cheneb/results/autogluon_public_fit/
+

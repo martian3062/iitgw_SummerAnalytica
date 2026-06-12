@@ -1,0 +1,11 @@
+{
+  "model": "tabpfn_cpu_n2_train2000",
+  "public_f1": 0.5522609340252038,
+  "threshold": 0.21999999999999997,
+  "accuracy": 0.5973333333333334,
+  "precision": 0.41114790286975716,
+  "recall": 0.8408577878103838,
+  "positive_predictions": 1812,
+  "elapsed_seconds": 16.553,
+  "train_rows": 2000
+}

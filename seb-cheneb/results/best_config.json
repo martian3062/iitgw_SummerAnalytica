@@ -1,0 +1,9 @@
+{
+  "model": "logreg_balanced_c2",
+  "threshold": 0.48499999999999993,
+  "public_f1": 0.5608465608465608,
+  "public_precision": 0.4602026049204052,
+  "public_recall": 0.7178329571106095,
+  "public_accuracy": 0.668,
+  "positive_predictions_public": 1382
+}

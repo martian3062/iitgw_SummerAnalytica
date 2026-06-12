@@ -1,0 +1,11 @@
+{
+  "model": "current_best_from_base_runner",
+  "public_f1": 0.5608465608465608,
+  "threshold": 0.48499999999999993,
+  "accuracy": 0.668,
+  "precision": 0.4602026049204052,
+  "recall": 0.7178329571106095,
+  "positive_predictions": 1382.0,
+  "status": "reference",
+  "error": ""
+}

@@ -1,0 +1,16 @@
+model,public_f1,threshold,accuracy,precision,recall,positive_predictions,status,error
+current_best_from_base_runner,0.5608465608465608,0.48499999999999993,0.668,0.4602026049204052,0.7178329571106095,1382.0,reference,
+tabicl_cpu_n4,0.5577323884952063,0.27499999999999997,0.6463333333333333,0.44216787838731,0.755079006772009,1513.0,ok,
+autogluon_medium_180s,0.5546094039244724,0.22499999999999998,0.599,0.4126721763085399,0.845372460496614,1815.0,ok,
+xgboost_balanced,0.5483184333759047,0.4749999999999999,0.6463333333333333,0.44019138755980863,0.7268623024830699,1463.0,ok,
+lightgbm_balanced,0.5470085470085471,0.4649999999999999,0.6466666666666666,0.4401650618982118,0.7223476297968398,1454.0,ok,
+tabpfn_cpu_n4,,,,,,,failed,"TabPFNHuggingFaceGatedRepoError: HuggingFace authentication error downloading from 'Prior-Labs/tabpfn_3'.
+This model is gated and requires you to accept its terms.
+
+Please follow these steps:
+1. Visit https://huggingface.co/Prior-Labs/tabpfn_3 in your browser and accept the terms of use.
+2. Log in to your Hugging Face account via the command line by running:
+   hf auth login
+   (Alternatively, you can set the HF_TOKEN environment variable   with a read token.)
+
+For detailed instructions, see https://docs.priorlabs.ai/how-to-access-gated-models"

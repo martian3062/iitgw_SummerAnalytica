@@ -1,0 +1,9 @@
+{
+  "model": "blend__logreg_c2_0.70__tabicl_n4_0.30__xgboost_0.00",
+  "public_f1": 0.5622807017543859,
+  "threshold": 0.42999999999999994,
+  "accuracy": 0.6673333333333333,
+  "precision": 0.4598278335724534,
+  "recall": 0.7234762979683973,
+  "positive_predictions": 1394
+}
