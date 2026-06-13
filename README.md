@@ -14,6 +14,7 @@ Notable challengers checked:
 - Coarse Logistic Regression + TabICL blend: 0.562281 public F1
 - Fine Logistic Regression + TabICL blend: 0.564283 public F1
 - Logistic Regression + TabICL seed blend: 0.564530 public F1
+- Seven-seed TabICL deep blend search: tied at 0.564530 public F1
 - TabICL: 0.557732 public F1
 - AutoGluon: 0.554609 public F1
 - TabPFN full train, 2 estimators CPU: 0.554327 public F1
